@@ -13,9 +13,8 @@ public class Teste {
 			blog = "loiane.com"
 	)
 	public static void main(String[] args) {
+	
 		
-		
-
 	}
 
 }
