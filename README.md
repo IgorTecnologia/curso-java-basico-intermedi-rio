@@ -17,5 +17,16 @@
   * Orientação a Objetos e Java
   * Herança, Interfaces e Polimorfismo
   * Tratamento de erros e exceções
+
+  *Aulas ministradas pela Loiane Groner https://loiane.training/curso/java-intermediario*
+
+    </h4> Conteúdo: </h4>
+    
+  * Enumeradores (Enum)
+  * Mais Elementos básicos da linguagem Java
+  * Programação multi-tarefas: Threads
+  * Trabalhando com Strings
+  * Classes Utilitárias (Datas, Locale, Math)
                                          
+</div>
 </div>
