@@ -20,7 +20,7 @@
 
   *Aulas ministradas pela Loiane Groner https://loiane.training/curso/java-intermediario*
 
-    </h4> Conteúdo: </h4>
+  </h4> Conteúdo: </h4>
     
   * Enumeradores (Enum)
   * Mais Elementos básicos da linguagem Java
